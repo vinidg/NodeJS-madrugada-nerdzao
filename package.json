@@ -15,9 +15,12 @@
     "express": "^4.16.4",
     "joi": "^14.3.1",
     "mongodb": "^3.1.13",
-    "nock": "^10.0.6"
+    "nock": "^10.0.6",
+    "pg": "^7.9.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^5.3.4"
   },
   "devDependencies": {
-    "mocha": "^6.0.2"
+    "mocha": "^6.1.3"
   }
 }
